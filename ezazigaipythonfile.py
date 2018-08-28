@@ -8,3 +8,4 @@ fff =(1, 2, 3)
 
 
 rr = "még ezt feltöltöm"
+print "és igen"
