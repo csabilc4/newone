@@ -6,3 +6,5 @@ print """juppi ezt megcsináltam,
 
 fff =(1, 2, 3)
 
+
+rr = "még ezt feltöltöm"
