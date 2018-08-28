@@ -7,6 +7,6 @@ print """juppi ezt megcsináltam,
 fff =(1, 2, 3)
 
 
-rr = "még ezt feltöltöm"
+rr = "még ezt feltöltöm, most meg editálom github-ban"
 
 print "és igen"
